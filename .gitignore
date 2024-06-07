@@ -1,0 +1,8 @@
+*.lck
+*.schlck#
+*.zip
+*.o
+*.out
+*.dblite
+*.exe
+*.7z
